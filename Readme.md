@@ -4,7 +4,7 @@
 ### What does this app do ?
 It uses python as a primary language to get data from different websites such as [worldometer](https://www.worldometers.info/coronavirus/) to scrape data for all countries.
 
-It also use covid19 India API to get India specific data like country info, state info and city info.
+It also use covid19 India API to get India specific data like country info, state info and city
 ### Features:
 - Check Total cases in india
 - Check Total cases in a particular city
