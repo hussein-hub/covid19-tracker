@@ -1,0 +1,1 @@
+"D:\PYTHON\python.exe" "D:\COLLEGE\SY_KY_IV\OSTPL\LAB\CODE\MiniProject\main.py"
